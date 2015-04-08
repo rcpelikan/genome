@@ -1,5 +1,5 @@
 
-from chrom import Chromosome
+from genome.chrom import Chromosome
 import math
 import sys
 import gzip
